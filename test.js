@@ -1,0 +1,1 @@
+console.log("URI:", process.env.MONGODB_URI);
